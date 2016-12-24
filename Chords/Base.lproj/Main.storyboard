@@ -28,7 +28,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="60"/>
                                         <subviews>
                                             <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UAw-JM-2i1">
-                                                <rect key="frame" x="0.0" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="DO">
@@ -36,7 +36,7 @@
                                                 </state>
                                             </button>
                                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LZx-rY-FcW">
-                                                <rect key="frame" x="125.5" y="0.0" width="124" height="60"/>
+                                                <rect key="frame" x="126" y="0.0" width="123" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="RE">
@@ -44,7 +44,7 @@
                                                 </state>
                                             </button>
                                             <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Tzu-OS-JM1">
-                                                <rect key="frame" x="251.5" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="251" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="REm">
@@ -63,7 +63,7 @@
                                         <rect key="frame" x="0.0" y="62" width="375" height="60"/>
                                         <subviews>
                                             <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kNP-el-pj0">
-                                                <rect key="frame" x="0.0" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="MI">
@@ -71,7 +71,7 @@
                                                 </state>
                                             </button>
                                             <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="caD-9g-8Vs">
-                                                <rect key="frame" x="125.5" y="0.0" width="124" height="60"/>
+                                                <rect key="frame" x="126" y="0.0" width="123" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="MIm">
@@ -79,7 +79,7 @@
                                                 </state>
                                             </button>
                                             <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gBg-92-Yag">
-                                                <rect key="frame" x="251.5" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="251" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="FA">
@@ -97,7 +97,7 @@
                                         <rect key="frame" x="0.0" y="124" width="375" height="60"/>
                                         <subviews>
                                             <button opaque="NO" tag="7" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="n2x-qP-MKh">
-                                                <rect key="frame" x="0.0" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="FA#m">
@@ -105,7 +105,7 @@
                                                 </state>
                                             </button>
                                             <button opaque="NO" tag="8" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WfR-RP-zda">
-                                                <rect key="frame" x="125.5" y="0.0" width="124" height="60"/>
+                                                <rect key="frame" x="126" y="0.0" width="123" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="SOL">
@@ -113,7 +113,7 @@
                                                 </state>
                                             </button>
                                             <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="psr-Vb-o23">
-                                                <rect key="frame" x="251.5" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="251" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="LA">
@@ -130,7 +130,7 @@
                                         <rect key="frame" x="0.0" y="186" width="375" height="60"/>
                                         <subviews>
                                             <button opaque="NO" tag="10" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IEb-cJ-EYI">
-                                                <rect key="frame" x="0.0" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="LAm">
@@ -138,7 +138,7 @@
                                                 </state>
                                             </button>
                                             <button opaque="NO" tag="11" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ndr-k4-soX">
-                                                <rect key="frame" x="125.5" y="0.0" width="124" height="60"/>
+                                                <rect key="frame" x="126" y="0.0" width="123" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="SI">
@@ -146,7 +146,7 @@
                                                 </state>
                                             </button>
                                             <button opaque="NO" tag="12" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5sW-zy-YQb">
-                                                <rect key="frame" x="251.5" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="251" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="SIm">
@@ -197,7 +197,7 @@
         <!--Guitarra-->
         <scene sceneID="Xbc-7y-THR">
             <objects>
-                <viewController id="2p8-4k-xyn" sceneMemberID="viewController">
+                <viewController id="2p8-4k-xyn" customClass="GuitarViewController" customModule="Chords" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="pvf-gO-z2s"/>
                         <viewControllerLayoutGuide type="bottom" id="xXL-cL-HhO"/>
@@ -213,28 +213,37 @@
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="60"/>
                                         <subviews>
                                             <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KLx-6V-e2h">
-                                                <rect key="frame" x="0.0" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="DO">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="LbW-we-9Np"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XHT-j7-2Nr">
-                                                <rect key="frame" x="125.5" y="0.0" width="124" height="60"/>
+                                                <rect key="frame" x="126" y="0.0" width="123" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="RE">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="iuV-W6-yWU"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nLj-xd-zHa">
-                                                <rect key="frame" x="251.5" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="251" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="REm">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="rla-fm-xP3"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -248,28 +257,37 @@
                                         <rect key="frame" x="0.0" y="62" width="375" height="60"/>
                                         <subviews>
                                             <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dlU-vK-45c">
-                                                <rect key="frame" x="0.0" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="MI">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="Ee1-9n-Y9z"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yIa-tH-lTh">
-                                                <rect key="frame" x="125.5" y="0.0" width="124" height="60"/>
+                                                <rect key="frame" x="126" y="0.0" width="123" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="MIm">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="vGH-ey-onu"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XTU-dd-OJi">
-                                                <rect key="frame" x="251.5" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="251" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="FA">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="Pbt-JC-ZGr"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -282,28 +300,37 @@
                                         <rect key="frame" x="0.0" y="124" width="375" height="60"/>
                                         <subviews>
                                             <button opaque="NO" tag="7" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ID1-6q-rwE">
-                                                <rect key="frame" x="0.0" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="FA#m">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="z4K-DL-z13"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="8" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NC4-0E-0bS">
-                                                <rect key="frame" x="125.5" y="0.0" width="124" height="60"/>
+                                                <rect key="frame" x="126" y="0.0" width="123" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="SOL">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="cJn-qw-Aqd"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6hO-S9-lLX">
-                                                <rect key="frame" x="251.5" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="251" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="LA">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="AU0-Lx-C8h"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -315,28 +342,37 @@
                                         <rect key="frame" x="0.0" y="186" width="375" height="60"/>
                                         <subviews>
                                             <button opaque="NO" tag="10" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dsh-7y-ZDI">
-                                                <rect key="frame" x="0.0" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882352941175" green="0.84705882352941175" blue="0.84705882352941175" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="LAm">
                                                     <color key="titleColor" red="0.29019607843137252" green="0.29019607843137252" blue="0.29019607843137252" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="ALz-YX-JZf"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="11" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TP7-DR-mK1">
-                                                <rect key="frame" x="125.5" y="0.0" width="124" height="60"/>
+                                                <rect key="frame" x="126" y="0.0" width="123" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="SI">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="MzE-2h-pUy"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="12" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6hK-Ua-xB5">
-                                                <rect key="frame" x="251.5" y="0.0" width="123.5" height="60"/>
+                                                <rect key="frame" x="251" y="0.0" width="124" height="60"/>
                                                 <color key="backgroundColor" red="0.84705882349999995" green="0.84705882349999995" blue="0.84705882349999995" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="24"/>
                                                 <state key="normal" title="SIm">
                                                     <color key="titleColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="chordButtonPressed:" destination="2p8-4k-xyn" eventType="touchUpInside" id="cqu-OD-R1O"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -374,6 +410,10 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Guitarra" id="MbA-gl-Poc"/>
+                    <connections>
+                        <outlet property="imgGuitarChord" destination="moD-tX-mFG" id="FDS-J5-QFy"/>
+                        <outlet property="lblChordName" destination="bRw-7l-tvC" id="CaN-Nn-tux"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yNR-Xg-a4n" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
