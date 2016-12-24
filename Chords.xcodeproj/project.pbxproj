@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9C2394491E0E6FF00060919B /* GuitarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2394481E0E6FF00060919B /* GuitarViewController.swift */; };
+		9C23944B1E0E86AB0060919B /* PianoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C23944A1E0E86AB0060919B /* PianoViewController.swift */; };
 		9C654F091E0DD3C90083E83E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C654F081E0DD3C90083E83E /* AppDelegate.swift */; };
 		9C654F0B1E0DD3C90083E83E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C654F0A1E0DD3C90083E83E /* ViewController.swift */; };
 		9C654F0E1E0DD3C90083E83E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C654F0C1E0DD3C90083E83E /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		9C2394481E0E6FF00060919B /* GuitarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GuitarViewController.swift; sourceTree = "<group>"; };
+		9C23944A1E0E86AB0060919B /* PianoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PianoViewController.swift; sourceTree = "<group>"; };
 		9C654F051E0DD3C90083E83E /* Chords.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chords.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C654F081E0DD3C90083E83E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9C654F0A1E0DD3C90083E83E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				9C654F111E0DD3C90083E83E /* LaunchScreen.storyboard */,
 				9C654F141E0DD3C90083E83E /* Info.plist */,
 				9C2394481E0E6FF00060919B /* GuitarViewController.swift */,
+				9C23944A1E0E86AB0060919B /* PianoViewController.swift */,
 			);
 			path = Chords;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				9C654F0B1E0DD3C90083E83E /* ViewController.swift in Sources */,
 				9C2394491E0E6FF00060919B /* GuitarViewController.swift in Sources */,
+				9C23944B1E0E86AB0060919B /* PianoViewController.swift in Sources */,
 				9C654F091E0DD3C90083E83E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
